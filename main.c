@@ -10,6 +10,9 @@ int main(void)
 	printf("Test = %02d\n\r", Test);
 
 	// 머지 투 메인!!! 도전!
+	// inno 2 분기 시작
+
+	Test = 1;
 	
 
 	return 0;
