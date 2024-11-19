@@ -11,6 +11,11 @@ int main(void)
 
 	Test = 124;
 	// 머지 투 메인!!! 도전!
+	// inno 2 분기 시작
+	// inno 2 두번째 분기 시작
+	// inno 2 세번째!!! 머지 투 메인 도전!!
 
+	Test = 3;
+	
 	return 0;
 }
