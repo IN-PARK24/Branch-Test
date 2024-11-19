@@ -3,9 +3,16 @@
 int main(void)
 {
 	int Test = 0;
+	int ma, br;
 
-	Test = 1004;
+	ma = 1;
+	br = 3;
+
+	Test = 123;
+	printf("First Branch!!!!\n\r");
+	printf("First Branch 1 - 3!!!!\n\r");
 	printf("Test = %02d\n\r", Test);
+	printf("Tree %2d - %02d\n\r", ma, br);
 
 
 	return 0;
