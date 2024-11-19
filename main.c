@@ -6,7 +6,7 @@ int main(void)
 
 	Test = 124;
 	printf("First Branch!!!!\n\r");
-	printf("First Branch 1 - 2 - 111!!!!\n\r");
+	printf("First Branch 1 - 2 - 2!!!!\n\r");
 	printf("Test = %02d\n\r", Test);
 
 
